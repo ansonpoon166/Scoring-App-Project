@@ -1,5 +1,5 @@
 CS50 scoring app
-#### Video Demo:  <URL https://youtu.be/_y-pF-tJKrg>
+
 #### Description:
 My project is a scoring for the Chinese board games Mah Jong and Landlord.
 
