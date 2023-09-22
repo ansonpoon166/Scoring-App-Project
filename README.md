@@ -1,7 +1,7 @@
-CS50 scoring app
+Scoring app
 
 #### Description:
-My project is a scoring for the Chinese board games Mah Jong and Landlord.
+My project is a scoring for the Chinese board games Mah Jong and Landlord, using Python (Flask), HTML, CSS and SQL.
 
 'app.py' is the file where the application was written in Flask. It is a stateful app that can remember the players. Paths were defined using decorators. Every page can be accessed with both 'GET' and 'POST' requests except the homepage. When a page is redirected or returned using 'POST' request, information is passed in by users in a form. Under the 'mah_jong' and 'landlord' functions, the scores are calcuted based on users' inputs which are then used to update the SQL database. Under the 'mah_jong' and 'landlord' functions, there are also options for users to remove rows if a mistake is made.
 
